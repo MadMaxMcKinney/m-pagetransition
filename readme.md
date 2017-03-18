@@ -1,5 +1,7 @@
 # M-PageTransition
 
+![M-PageTransition](http://maxmckinney.com/wp-content/uploads/2017/03/Max-McKinney-blog-post-thumbnail-jQuery-Page-Transition.jpg)
+
 M-PageTransition is a jQuery plugin that allows you to easily have your web pages fade to and from a designated color.
 
 ## Install and Usage
